@@ -1,0 +1,12 @@
+Package: siGCD
+Type: Package
+Title: a R package to explore survival interaction of genes, cells and drugs in human cancers
+Version: 0.1.0
+Author: Xiuliang Cui
+Maintainer: The package maintainer <wafyai@163.com>
+Description: siGCD: a R package to explore survival interaction of genes, cells and drugs in human cancers.
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+Imports: survival,dplyr
+RoxygenNote: 7.1.1
