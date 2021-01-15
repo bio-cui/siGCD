@@ -1,1 +1,7 @@
 export(cell_drug)
+export(cell_cell)
+export(funcs)
+export(cell_gene)
+export(drug_drug)
+export(drug_gene)
+export(gene_gene)
